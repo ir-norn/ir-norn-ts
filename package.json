@@ -1,7 +1,7 @@
 {
   "name": "ir-norn-ts",
   "main": "./lib/ir-norn-ts",
-  "version": "0.2.1",
+  "version": "0.2.2-0",
   "description": "A short description of your package",
   "keywords": [],
   "activationCommands": {
