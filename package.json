@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "ir-norn-ts:toggle"
   },
-  "repository": "https://github.com/atom/ir-norn-ts",
+  "repository": "https://github.com/ir-norn/ir-norn-ts",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
