@@ -1,0 +1,22 @@
+# See https://atom.io/docs/latest/hacking-atom-package-word-count#menus for more details
+'context-menu':
+  'atom-text-editor': [
+    {
+      'label': 'Toggle ir-norn-ts'
+      'command': 'ir-norn-ts:toggle'
+    }
+  ]
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'ir-norn-ts'
+      'submenu': [
+        {
+          'label': 'Toggle'
+          'command': 'ir-norn-ts:toggle'
+        }
+      ]
+    ]
+  }
+]
